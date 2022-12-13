@@ -1,0 +1,28 @@
+We can design a cloud padabase for storing multiple users
+Before completing the cloud on this page, you must have:
+
+Create a Cloud SQL instance.
+In the Google Cloud console, go to the Cloud SQL Instances page.
+1 Go to Cloud SQL Instances
+2 To open the Overview page of an instance, click the instance name.
+3 Select Databases from the SQL navigation menu.
+4 Click Create database.
+5 In the New database dialog, specify the name of the database.
+6 Click Create
+
+List the data base
+
+1 In the Google Cloud console, go to the Cloud SQL Instances page.
+2 Go to Cloud SQL Instances
+3 To open the Overview page of an instance, click the instance name.
+4 Click Databases from the left side menu. The Databases page lists databases along with their collation type, character set, and database type.
+
+If we want to delete the database then we can delete it 
+the Google Cloud console, go to the Cloud SQL Instances page.
+
+Go to Cloud SQL Instances
+
+To open the Overview page of an instance, click the instance name.
+Click Databases from the left side menu.
+In the database list, find the database you want to delete and click the trash can icon.
+In the Delete database dialog box, enter the name of the database and then click Delete
